@@ -63,7 +63,7 @@ const article = {
           media: [
             {
               type: "image",
-              src: "assets/source/ancient-intuition.png",
+              src: "assets/source/universe-mirror-ancient.png",
               alt: { en: "Ancient sacred geometry merging with modern cosmology" },
               caption: { en: "The convergence of ancient wisdom and frontier physics." }
             }
@@ -95,6 +95,14 @@ const article = {
         {
           take: { en: "Only 5% of the universe is ordinary matter. The rest \u2014 dark matter and dark energy \u2014 is invisible, inferred only by its gravitational fingerprints." },
           quote: { en: "What if this \u2018dark sector\u2019 is not just materially hidden, but phenomenally hidden too?" },
+          media: [
+            {
+              type: "image",
+              src: "assets/source/universe-mirror-dark.png",
+              alt: { en: "The invisible skeleton of the universe — dark matter web connecting galaxies" },
+              caption: { en: "The dark sector: 95% of the cosmos, invisible yet structuring everything." }
+            }
+          ],
           paragraphs: [
             { text: { en: "Here\u2019s a fact that should stop you in your tracks: everything you\u2019ve ever seen \u2014 every star, planet, person, galaxy \u2014 makes up only 5% of the universe. The other 95% is invisible. About 27% is dark matter, holding galaxies together. About 68% is dark energy, pushing the universe apart. We\u2019ve never directly detected either one." } },
             { text: { en: "The James Webb Space Telescope is now resolving dark-matter halos down to a million solar masses. The Euclid mission is building a 3D map of the cosmos\u2019 invisible skeleton. Some theories suggest that spacetime itself \u2014 the very fabric of distance and geometry \u2014 emerges from quantum entanglement. If that\u2019s true, then space isn\u2019t fundamental. It\u2019s a shadow of deeper relationships." } }
@@ -122,6 +130,14 @@ const article = {
         {
           take: { en: "Quantum mechanics works perfectly. What it means is still anyone\u2019s guess." },
           quote: { en: "Quantum mechanics is experimentally secure but ontologically underdetermined." },
+          media: [
+            {
+              type: "image",
+              src: "assets/source/universe-mirror-quantum.png",
+              alt: { en: "Quantum superposition — a wave of possibilities collapsing into reality" },
+              caption: { en: "The measurement problem: quantum mechanics works perfectly. What it means is still anyone's guess." }
+            }
+          ],
           paragraphs: [
             { text: { en: "Let\u2019s be honest about what physics actually tells us. Quantum mechanics \u2014 the theory governing the very small \u2014 is the most precisely tested theory in human history. It predicts experimental outcomes to twelve decimal places. It works. But what it means? Physicists have been arguing about that for a century." } },
             { text: { en: "Here\u2019s the core puzzle. Between observations, a quantum system evolves smoothly and deterministically \u2014 like a wave spreading out. But when you measure it, you get one definite result \u2014 like a coin landing on heads. The math doesn\u2019t explain why the wave becomes a coin. This is the \u201Cmeasurement problem,\u201D and it\u2019s still open." } }
@@ -209,6 +225,14 @@ const article = {
         {
           take: { en: "Core 1 \u2014 Dual-Aspect Information: reality\u2019s substrate has two inseparable faces \u2014 physical and experiential." },
           quote: { en: "Reality\u2019s substrate is informational/relational structure with two inseparable aspects: an exterior describable by physics and an interior experienced as consciousness." },
+          media: [
+            {
+              type: "image",
+              src: "assets/source/universe-mirror-bets.png",
+              alt: { en: "Three paths diverging in a cosmic landscape — information, collapse, dark energy" },
+              caption: { en: "Three formal bets: from philosophy to frontier science." }
+            }
+          ],
           paragraphs: [
             { text: { en: "The first hypothesis doesn\u2019t change any equations. It says that information \u2014 the stuff physicists already work with in quantum theory \u2014 has two sides. The outside is what physics measures: states, entanglement, causal structure. The inside is what it feels like: consciousness. This is the most conservative bet. It\u2019s an ontology, not a new physics." } }
           ]
@@ -303,7 +327,7 @@ const article = {
           media: [
             {
               type: "image",
-              src: "assets/source/convergence.png",
+              src: "assets/source/universe-mirror-convergence.png",
               alt: { en: "A single eye opening within a spiral galaxy — consciousness witnessing itself" },
               caption: { en: "The universe, folded briefly into eyes." }
             }

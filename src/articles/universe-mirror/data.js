@@ -60,6 +60,14 @@ const article = {
         {
           take: { en: "Humanity\u2019s longest-running intuition is that the world we see is the outermost skin of something inwardly awake." },
           quote: { en: "The cosmos is not merely made by consciousness, but of it." },
+          media: [
+            {
+              type: "image",
+              src: "assets/source/ancient-intuition.png",
+              alt: { en: "Ancient sacred geometry merging with modern cosmology" },
+              caption: { en: "The convergence of ancient wisdom and frontier physics." }
+            }
+          ],
           paragraphs: [
             { text: { en: "Across traditions and civilizations \u2014 Ved\u0101nta\u2019s Brahman, the Tao, Kabbalah\u2019s Ein Sof, Aboriginal Dreamtime \u2014 a strange consensus arises. All form, all plurality, is the play of a singular principle. Not merely a cause, but a conscious one. The metaphors differ: vibration, light, dream, emanation. But the structure stays the same." } },
             { text: { en: "In Ved\u0101nta, Brahman alone is real; the world of names and forms is m\u0101y\u0101 \u2014 appearance, not fundamental substance. In the Tao Te Ching: \u201CThe Tao that can be told is not the eternal Tao.\u201D In Kabbalah, Ein Sof (the Infinite) emanates the world through progressive contraction. These aren\u2019t primitive guesses. They\u2019re humanity\u2019s longest-running hypothesis about what\u2019s really going on." } }
@@ -292,6 +300,14 @@ const article = {
         {
           take: { en: "Across myth, metaphysics, and measurement, one motif recurs: something invisible makes everything visible possible." },
           quote: { en: "We call it Brahman. We call it Tao. We call it \u03A6. We call it \u039BCDM. It can\u2019t be touched, but without it, no touch is possible." },
+          media: [
+            {
+              type: "image",
+              src: "assets/source/convergence.png",
+              alt: { en: "A single eye opening within a spiral galaxy — consciousness witnessing itself" },
+              caption: { en: "The universe, folded briefly into eyes." }
+            }
+          ],
           paragraphs: [
             { text: { en: "Science may take decades to confirm whether the organizing principle behind reality is conscious, informational, or both. But its fingerprints are everywhere \u2014 in equations and in epiphanies. The project isn\u2019t a replacement for science. It\u2019s a wager that the next layer of science may require taking interiority seriously." } },
             { text: { en: "This vision holds one thing steady: we are not at the end of explanation. The universe still has joints we don\u2019t know how to cut \u2014 definiteness, time\u2019s arrow, dark-sector identity, the interiority of experience. The wager is that these are not separate mysteries. They are one mystery, seen from different angles." } }
